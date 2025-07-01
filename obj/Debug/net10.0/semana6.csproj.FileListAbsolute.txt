@@ -12,3 +12,4 @@ C:\Users\Paul\csharp\semana6\obj\Debug\net10.0\refint\semana6.dll
 C:\Users\Paul\csharp\semana6\obj\Debug\net10.0\semana6.pdb
 C:\Users\Paul\csharp\semana6\obj\Debug\net10.0\semana6.genruntimeconfig.cache
 C:\Users\Paul\csharp\semana6\obj\Debug\net10.0\ref\semana6.dll
+C:\Users\Paul\csharp\semana6\obj\Debug\net10.0\semana6.sourcelink.json

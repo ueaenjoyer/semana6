@@ -12,8 +12,8 @@ namespace ListaEnlazadaApp
             {
                 Console.Clear();
                 Console.WriteLine("\n=== Menú Principal ===");
-                Console.WriteLine("1. Contador de elementos");
-                Console.WriteLine("2. Inversor de lista");
+                Console.WriteLine("1. Contar elementos de la lista");
+                Console.WriteLine("2. Invertir lista");
                 Console.WriteLine("3. Salir");
                 Console.Write("Seleccione una opción: ");
 
@@ -22,10 +22,10 @@ namespace ListaEnlazadaApp
                 switch (opcion)
                 {
                     case "1":
-                        ContadorElementos.Ejecutar();
+                        OperacionesLista.ContarElementos();
                         break;
                     case "2":
-                        InversorLista.Ejecutar();
+                        OperacionesLista.InvertirLista();
                         break;
                     case "3":
                         salir = true;
